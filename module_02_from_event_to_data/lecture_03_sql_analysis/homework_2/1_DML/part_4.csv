@@ -1,0 +1,11 @@
+"product_id";"product_name";"price";"category_id";"class";"modify_timestamp";"resistant";"is_allergic";"vitality_days"
+507;Silver Carrot;333.33;1;B;"2025-11-24 21:51:39";No;No;33
+505;Black Tea Classic Small Pack #30;8.21;15;B;"2025-11-24 21:51:39";No;Yes;124
+504;Green Tea Small Pack #29;19.37;15;C;"2025-11-24 21:51:39";No;Yes;174
+503;Arabica Coffee Beans Family Pack #28;7.66;15;B;"2025-11-24 21:51:39";Yes;No;39
+502;Green Tea Classic;17.68;15;B;"2025-11-24 21:51:39";No;Yes;34
+501;Ground Coffee Medium Roast Classic;2.94;15;C;"2025-11-24 21:51:39";No;Yes;23
+500;Ground Coffee Medium Roast Family Pack #25;16.96;15;C;"2025-11-24 21:51:39";No;No;86
+499;Ground Coffee Medium Roast;35.7;15;A;"2025-11-24 21:51:39";Yes;Yes;94
+498;Black Tea Classic;35.84;15;C;"2025-11-24 21:51:39";Yes;No;177
+497;Green Tea Family Pack #22;35.63;15;A;"2025-11-24 21:51:39";Yes;Yes;96

@@ -1,0 +1,31 @@
+"product_id";"product_name";"price";"category_id";"class";"modify_timestamp";"resistant";"is_allergic";"vitality_days"
+3;Blueberries Family Pack;38.33;1;B;"2025-11-24 21:51:39";Yes;Yes;107
+6;White Grapes;8.5;1;A;"2025-11-24 21:51:39";Yes;Yes;84
+10;Raspberries Family Pack #10;27.7;1;A;"2025-11-24 21:51:39";Yes;Yes;90
+19;Bananas Premium #19;33.83;1;C;"2025-11-24 21:51:39";Yes;Yes;105
+21;Red Apples Classic;37.23;1;B;"2025-11-24 21:51:39";Yes;Yes;71
+22;Bananas Classic;29.54;1;A;"2025-11-24 21:51:39";Yes;Yes;178
+26;Raspberries Family Pack #26;23.95;1;A;"2025-11-24 21:51:39";Yes;Yes;68
+30;Plums Small Pack;34.69;1;A;"2025-11-24 21:51:39";Yes;Yes;113
+36;Kiwi Family Pack #36;8.41;1;A;"2025-11-24 21:51:39";Yes;Yes;90
+37;Red Apples Classic #37;23.78;1;C;"2025-11-24 21:51:39";Yes;Yes;140
+42;Red Apples Small Pack;25.23;1;C;"2025-11-24 21:51:39";Yes;Yes;147
+43;Mandarins #43;11.34;1;B;"2025-11-24 21:51:39";Yes;Yes;104
+49;Zucchini;1.38;2;A;"2025-11-24 21:51:39";Yes;Yes;104
+57;Spinach Leaves Family Pack;23.64;2;B;"2025-11-24 21:51:39";Yes;Yes;162
+59;Tomatoes Premium #14;2.73;2;B;"2025-11-24 21:51:39";Yes;Yes;103
+64;Bell Peppers Family Pack #19;20.94;2;C;"2025-11-24 21:51:39";Yes;Yes;82
+67;Tomatoes Small Pack;20.28;2;A;"2025-11-24 21:51:39";Yes;Yes;37
+73;Potatoes Family Pack;6.88;2;B;"2025-11-24 21:51:39";Yes;Yes;26
+82;Carrots Premium #37;9.74;2;A;"2025-11-24 21:51:39";Yes;Yes;73
+84;Tomatoes Small Pack #39;28.28;2;B;"2025-11-24 21:51:39";Yes;Yes;51
+86;Potatoes #41;27.93;2;C;"2025-11-24 21:51:39";Yes;Yes;87
+93;Sourdough Baguette;28.35;3;B;"2025-11-24 21:51:39";Yes;Yes;31
+98;Wholegrain Bread Family Pack;13.31;3;C;"2025-11-24 21:51:39";Yes;Yes;65
+100;Sourdough Baguette Family Pack;15.07;3;B;"2025-11-24 21:51:39";Yes;Yes;80
+103;Wholegrain Bread Premium;37.7;3;B;"2025-11-24 21:51:39";Yes;Yes;112
+104;Seeded Loaf Classic;23.5;3;C;"2025-11-24 21:51:39";Yes;Yes;48
+107;Sourdough Baguette #17;39.61;3;B;"2025-11-24 21:51:39";Yes;Yes;63
+108;Oat Rolls Family Pack;11.32;3;A;"2025-11-24 21:51:39";Yes;Yes;54
+112;Rye Bread Family Pack;36.43;3;A;"2025-11-24 21:51:39";Yes;Yes;52
+131;Cashew Spread #6;15.71;4;B;"2025-11-24 21:51:39";Yes;Yes;156
